@@ -5,7 +5,7 @@ In this project, I'm dealing with multiple environments from the GYM library and
 <br>
 ![RL_AgentModel](Image/RL_AgentModel.jpg)
 <br>
-it's easier to work with modularized code, as it's simple to use as we would see later
+It's easier to work with modularized code, as it's simple to use as we would see later
 <br> So, the project is divided into three modules:
 1) Build a modular code consisting of functions that can be used in multiple environments.
 2) Tune alpha, gamma, and/or epsilon using decay over episodes.
