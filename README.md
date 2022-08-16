@@ -2,16 +2,17 @@
 
 ## Overview
 In this project, I'm dealing with multiple environments from the GYM library and trying to apply the Reinforcement Learning technique to optimize the agent actions.
+<br>
 ![RL_AgentModel](Image/RL_AgentModel.jpg)
+<br>
 it's easier to work with modularized code, as it's simple to use as we would see later
-The project is divided into three parts:
+<br> So, the project is divided into three modules:
 1) Build a modular code consisting of functions that can be used in multiple environments.
 2) Tune alpha, gamma, and/or epsilon using decay over episodes.
 3) Implement a grid search to discover the best hyperparameters.
 
 
 ## Table of Contents
-- [Overview](#Overview)
 - [Usage](#Usage)
   - [Install](#Install)
   - [Import the project file](#Import-the-project-file)
